@@ -2,9 +2,15 @@
 <h3 align="center">I'm passinate for Data Scientist</h3>
 
 - 🔭 I’m currently working on **Diabetic Ratinopathy**
-
 - 🌱 I’m currently learning **Generative AI,MLOPs**
-
+- I have technical experience and interest in:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Langauge Processing
+- MLOps
+- Generative AI
+  
 - 📫 How to reach me **dushyank51001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y3I726dagstFKLP-p3cjij3Kxm_YcRSN/view?usp=sharing](https://drive.google.com/file/d/1Y3I726dagstFKLP-p3cjij3Kxm_YcRSN/view?usp=sharing)
