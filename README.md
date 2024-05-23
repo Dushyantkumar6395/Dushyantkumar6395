@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dushyant Kumar</h1>
+<h1 align="left">Hey! Nice to see you.</h1>
+<h1 align="center">I'm Dushyant Kumar</h1>
 <h3 align="center">I'm passinate for Data Scientist</h3>
 
 - 🔭 I’m currently working on **Diabetic Ratinopathy**
-- 🌱 I’m currently learning **Generative AI,MLOPs**
-- I have technical experience and interest in:
+<h3>I have technical experience and interest in:</h3>
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
