@@ -1,6 +1,6 @@
 <h1 align="left">Hey! Nice to see you.</h1>
 <h1 align="center">I'm Dushyant Kumar</h1>
-<h3 align="center">I'm passinate for Data Scientist</h3>
+<h3 align="center">I'm passinate for Machine Learning & Data Scientist</h3>
 
 - 🔭 I’m currently working on **Diabetic Ratinopathy**
 <h3>I have technical experience and interest in:</h3>
