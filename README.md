@@ -2,7 +2,7 @@
 <h1 align="center">I'm Dushyant Kumar</h1>
 <h3 align="center">I'm passinate for Machine Learning Engineer & Data Scientist</h3>
 
-- 🔭 I’m currently working on **Generative AI  AND LLMs**
+- 🔭 I’m currently working on **Generative AI  & LLMs**
 <h3>I have technical experience and interest in:</h3>
 
 - Machine Learning
