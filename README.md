@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **dushyank51001@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1BWiFEvSr4pdFwJRibCqqtTLPMPyy8JsF/view?usp=drivesdk
+- 📄 Know about my experiences https://drive.google.com/file/d/1BWjFEvSr4pdFwJRjbCqqtTLPMPyy8JsF/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
